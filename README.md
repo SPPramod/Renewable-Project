@@ -37,6 +37,16 @@ To work with the Blender files, you will need to have [Blender](https://www.blen
   
 ---
 
+## Clone the Repository
+
+To clone this repository, run the following command:
+
+```bash
+git clone https://github.com/SPPramod/Renewable-Project.git
+```
+
+---
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork the repository, make changes, and submit a pull request.
